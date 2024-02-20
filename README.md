@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiz Akbar Putra Wardani</h1>
-<h3 align="center">A passionate frontend developer from Indonesia, rekam posting masuk surga</h3>
+<h3 align="center">Fullstack Developer - Rekam Posting Masuk Surga Aamiin</h3>
+
+- ⚡ Fun fact **Belajar terus, Jarang main**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
