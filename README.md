@@ -2,9 +2,6 @@
 <h3 align="center">Fullstack Developer - Rekam Posting Masuk Surga Aamiin</h3>
 
 - ⚡ Fun fact **Sad saya ini**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
