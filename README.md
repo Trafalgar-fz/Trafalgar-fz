@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faiz Akbar Putra Wardani</h1>
-<h3 align="center">Fullstack Developer - Rekam Posting Masuk Surga Aamiin</h3>
+<h3 align="center">Rekam Posting Masuk Surga Aamiin</h3>
 
 - ⚡ Fun fact **Sad saya ini**
 </p>
